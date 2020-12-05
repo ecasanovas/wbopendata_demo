@@ -1,6 +1,6 @@
 /*******************************************************************************
-	       Downloading World Bank data using wbopendata  	              
-			Elena Casanovas. Dec 2020  	              
+	         Downloading World Bank data using wbopendata  	              
+			  Elena Casanovas. Dec 2020  	              
 *******************************************************************************/
 
 	cd	"/setpath" 
